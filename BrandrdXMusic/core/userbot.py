@@ -71,10 +71,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("BRANDED_WORLD")
-                await self.one.join_chat("BRANDED_PAID_CC")
-                await self.one.join_chat("BRANDRD_BOT")
-                await self.one.join_chat("ABOUT_BRANDEDKING")
+                await self.one.join_chat("kittyxupdates")
+                await self.one.join_chat("Herokue_cc")
+                await self.one.join_chat("grandxmasti")
+                await self.one.join_chat("about_ur_moonshining")
 
             except:
                 pass
@@ -101,10 +101,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("BRANDED_WORLD")
-                await self.two.join_chat("BRANDED_PAID_CC")
-                await self.two.join_chat("BRANDRD_BOT")
-                await self.two.join_chat("ABOUT_BRANDEDKING")
+                await self.two.join_chat("kittyxupdates")
+                await self.two.join_chat("Herokue_cc")
+                await self.two.join_chat("grandxmasti")
+                await self.two.join_chat("about_ur_moonshining")
             except:
                 pass
             assistants.append(2)
@@ -125,10 +125,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("BRANDED_WORLD")
-                await self.three.join_chat("BRANDED_PAID_CC")
-                await self.three.join_chat("BRANDRD_BOT")
-                await self.three.join_chat("ABOUT_BRANDEDKING")
+                await self.three.join_chat("kittyxupdates")
+                await self.three.join_chat("Herokue_cc")
+                await self.three.join_chat("grandxmasti")
+                await self.three.join_chat("about_ur_moonshining")
             except:
                 pass
             assistants.append(3)
@@ -148,10 +148,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("BRANDED_WORLD")
-                await self.four.join_chat("BRANDED_PAID_CC")
-                await self.four.join_chat("BRANDRD_BOT")
-                await self.four.join_chat("ABOUT_BRANDEDKING")
+                await self.four.join_chat("kittyxupdates")
+                await self.four.join_chat("Herokue_cc")
+                await self.four.join_chat("grandxmasti")
+                await self.four.join_chat("about_ur_moonshining")
             except:
                 pass
             assistants.append(4)
@@ -171,10 +171,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("BRANDED_WORLD")
-                await self.five.join_chat("BRANDED_PAID_CC")
-                await self.five.join_chat("BRANDRD_BOT")
-                await self.five.join_chat("ABOUT_BRANDEDKING")
+                await self.five.join_chat("kittyxupdates")
+                await self.five.join_chat("Herokue_cc")
+                await self.five.join_chat("grandxmasti")
+                await self.five.join_chat("about_ur_moonshining")
             except:
                 pass
             assistants.append(5)
